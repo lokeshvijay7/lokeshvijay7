@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Next.js, Three.js, and Advanced System Design**
 - 👯 I’m open to collaborating on **Open Source, Real-Time Web Apps & AI Tools**
 - 💬 Ask me about **MERN Stack, REST APIs, GitHub Actions, AI Integration**
-- 📫 How to reach me: **lokeshvijay7@gmail.com**
+- 📫 How to reach me: **loki7cr@gmail.com**
 - ⚡ Fun fact: I love building **AI+Web** integrations and **visual UIs**
 
 ---
@@ -51,4 +51,10 @@
 ### 📬 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/lokeshvijay7" target="blank"><img align="center" src="https://skillicons.dev/ico
+  <a href="https://linkedin.com/in/lokeshvijay7" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="lokeshvijay7" /></a>
+  <a href="mailto:lokeshvijay7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+> 🚀 Let's build, learn, and grow together!
