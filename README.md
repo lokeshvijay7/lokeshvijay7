@@ -1,60 +1,67 @@
 <h1 align="center">Hi 👋, I'm Lokesh Vijay</h1>
-<h3 align="center">B.Tech in AIML | MERN Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">🚀 B.Tech in AIML | MERN Stack Developer | AI Enthusiast | Creative Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokeshvijay7&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshvijay7" />
-</p>
-
-- 🔭 I’m currently working on **E-commerce Bidding System, AI Chatbots & Internship Projects**
-- 🌱 I’m currently learning **Next.js, Three.js, and Advanced System Design**
-- 👯 I’m open to collaborating on **Open Source, Real-Time Web Apps & AI Tools**
-- 💬 Ask me about **MERN Stack, REST APIs, GitHub Actions, AI Integration**
-- 📫 How to reach me: **loki7cr@gmail.com**
-- ⚡ Fun fact: I love building **AI+Web** integrations and **visual UIs**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,flask,git,github,figma,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=lokeshvijay7&label=👁‍🗨%20Profile%20Views&color=blueviolet&style=flat-square" alt="lokeshvijay7" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Full-Stack Projects & AI-Powered Web Apps**
+- 🧠 Learning **Next.js, Docker, and Advanced AI Integrations**
+- 💬 Ask me about:  
+  `JavaScript`, `React`, `Node.js`, `MongoDB`, `REST APIs`, `Flask`, `AI APIs`
+- 📫 Reach me at: **loki7cr@gmail.com**
+- 🧑‍💼 Open to Freelance, Internships, and Full-Time Developer Roles
+- ⚡ Fun Fact: I design tools that blend AI + Web to create smart experiences
+
+---
+
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshvijay7&show_icons=true&theme=radical" alt="Lokesh's GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,bootstrap,tailwind,python,flask,git,github,vscode,figma,postman" />
+</p>
+
+---
+
+### 🌟 Highlight Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🌌 3D Solar System](https://regal-cactus-5a61fb.netlify.app) | Realistic animated solar system using Three.js | `Three.js`, `JS`, `WebGL` |
+| [🛒 Bidding E-commerce Platform](https://thedeadstock.in) | Deadstock e-com with live bidding & seller panel | `PHP`, `MySQL`, `Admin Panel` |
+| [🎬 FlixView](https://github.com/lokeshvijay7/FlixView) | Netflix-inspired movie streaming UI | `React`, `TMDb API`, `CSS Grid` |
+| [📅 Schedulo](https://github.com/lokeshvijay7/Schedulo) | Timetable generator and manager app | `MERN`, `MongoDB`, `Redux` |
+| [⚡ EV Charging App](https://github.com/lokeshvijay7/EVChargingManagement) | Map-based station monitoring with live data | `React`, `Node`, `Socket.io` |
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshvijay7&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokeshvijay7&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshvijay7&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshvijay7&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
+
+---
+
+### 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshvijay7&layout=compact&theme=radical" />
+  <a href="mailto:loki7cr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://linkedin.com/in/lokeshvijay7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://github.com/lokeshvijay7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 ---
 
-### 🧠 Projects:
-
-- ⚡ [EV Charging Station (Map + Realtime)](https://github.com/lokeshvijay7/EVChargingManagement)
-- 🧾 [Bidding E-commerce Website](https://thedeadstock.in)
-- 🚀 [3D Solar System (Three.js)](https://regal-cactus-5a61fb.netlify.app) | [GitHub](https://github.com/lokeshvijay7/3d-solar-system)
-- 📺 [FlixView - Netflix Clone](https://github.com/lokeshvijay7/FlixView)
-- 📅 [Schedulo - Timetable Manager](https://github.com/lokeshvijay7/Schedulo)
-
----
-
-### 📬 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/lokeshvijay7" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="lokeshvijay7" /></a>
-  <a href="mailto:lokeshvijay7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  💡 *“Code is art. I create experiences, not just interfaces.”*  
 </p>
-
----
-
-> 🚀 Let's build, learn, and grow together!
