@@ -31,11 +31,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌌 3D Solar System](https://regal-cactus-5a61fb.netlify.app) | Realistic animated solar system using Three.js | `Three.js`, `JS`, `WebGL` |
+
+| [⚡ EV Charging App](https://github.com/lokeshvijay7/EVChargingManagement) | Map-based station monitoring with live data | `React`, `Node`, MongoDB` |
 | [🛒 Bidding E-commerce Platform](https://thedeadstock.in) | Deadstock e-com with live bidding & seller panel | `PHP`, `MySQL`, `Admin Panel` |
+| [🌌 3D Solar System](https://regal-cactus-5a61fb.netlify.app) | Realistic animated solar system using Three.js | `Three.js`, `JS`, `WebGL` |
 | [🎬 FlixView](https://github.com/lokeshvijay7/FlixView) | Netflix-inspired movie streaming UI | `React`, `TMDb API`, `CSS Grid` |
 | [📅 Schedulo](https://github.com/lokeshvijay7/Schedulo) | Timetable generator and manager app | `MERN`, `MongoDB`, `Redux` |
-| [⚡ EV Charging App](https://github.com/lokeshvijay7/EVChargingManagement) | Map-based station monitoring with live data | `React`, `Node`, `Socket.io` |
 
 ---
 
