@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Vijay</h1>
-<h3 align="center">🚀 B.Tech in AIML | MERN Stack Developer | AI Enthusiast | Creative Builder</h3>
+<h3 align="center">🚀 B.Tech in AIML | MERN Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lokeshvijay7&label=👁‍🗨%20Profile%20Views&color=blueviolet&style=flat-square" alt="lokeshvijay7" />
