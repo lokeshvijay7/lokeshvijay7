@@ -11,8 +11,7 @@
 
 - 🔭 Currently working on **Full-Stack Projects & AI-Powered Web Apps**
 - 🧠 Learning **Next.js, Docker, and Advanced AI Integrations**
-- 💬 Ask me about:  
-  `JavaScript`, `React`, `Node.js`, `MongoDB`, `REST APIs`, `Flask`, `AI APIs`
+- 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `MongoDB`, `REST APIs`, `Flask`, `AI APIs`
 - 📫 Reach me at: **loki7cr@gmail.com**
 - 🧑‍💼 Open to Freelance, Internships, and Full-Time Developer Roles
 - ⚡ Fun Fact: I design tools that blend AI + Web to create smart experiences
