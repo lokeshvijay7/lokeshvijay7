@@ -60,6 +60,3 @@
 
 ---
 
-<p align="center">
-  💡 *“Code is art. I create experiences, not just interfaces.”*  
-</p>
