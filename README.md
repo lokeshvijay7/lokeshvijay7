@@ -26,11 +26,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,python,html,css,tailwind,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 </p>
 
 <div align="center">
@@ -49,11 +49,11 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🌌 3D Solar System** | Interactive solar system with realistic animations | `Three.js` `JavaScript` `WebGL` | [Live Demo](https://regal-cactus-5a61fb.netlify.app) |
+| **⚡ EV Charging App** | Real-time charging station locator | `React` `Node.js` `Socket.io` | [GitHub](https://github.com/lokeshvijay7/EVChargingManagement) |
 | **🛒 Bidding E-commerce** | Full-featured e-commerce with live bidding system | `PHP` `MySQL` `JavaScript` | [Live Site](https://thedeadstock.in) |
 | **🎬 FlixView** | Netflix-inspired movie streaming platform | `React` `TMDb API` `CSS` | [GitHub](https://github.com/lokeshvijay7/FlixView) |
 | **📅 Schedulo** | Smart timetable generator and manager | `MERN Stack` `MongoDB` | [GitHub](https://github.com/lokeshvijay7/Schedulo) |
-| **⚡ EV Charging App** | Real-time charging station locator | `React` `Node.js` `Socket.io` | [GitHub](https://github.com/lokeshvijay7/EVChargingManagement) |
+| **🌌 3D Solar System** | Interactive solar system with realistic animations | `Three.js` `JavaScript` `WebGL` | [Live Demo](https://regal-cactus-5a61fb.netlify.app) |
 
 ---
 
@@ -88,9 +88,9 @@
   <a href="https://github.com/lokeshvijay7">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/lokeshvijay7">
+<!--   <a href="https://twitter.com/lokeshvijay7">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  </a> -->
 </p>
 
 ## 📈 Contribution Graph
