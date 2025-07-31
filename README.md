@@ -59,7 +59,8 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokeshvijay7&theme=onedark&no-frame=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lokeshvijay7&theme=github-dark&no-frame=true&column=6&margin-w=10&margin-h=10" /><br>
+
 </p>
 
 ## 📊 GitHub Stats
