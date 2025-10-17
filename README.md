@@ -19,7 +19,6 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Python, AI APIs**
 - 📫 Reach me at **loki7cr@gmail.com**
 - 🎯 Open to **Freelance, Internships, and Full-Time Developer Roles**
-- ⚡ Fun fact: **I love creating tools that blend AI with Web technology**
 
 ---
 
