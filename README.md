@@ -100,6 +100,6 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad."</i>
-</div>
+</div> -->
