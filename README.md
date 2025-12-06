@@ -48,7 +48,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **⚡ EV Charging App** | Real-time charging station locator | `React` `Node.js` `Socket.io` | [GitHub](https://github.com/lokeshvijay7/EVChargingManagement) |
+| **⚡ EV Charging App** | Real-time charging station locator | `React` `Node.js` `Socket.io` | [Live Site](https://ev-charging-app-frontend.onrender.com/) |
 | **🛒 Bidding E-commerce** | Full-featured e-commerce with live bidding system | `PHP` `MySQL` `JavaScript` | [Live Site](https://thedeadstock.in) |
 | **🎬 FlixView** | Netflix-inspired movie streaming platform | `React` `TMDb API` `CSS` | [GitHub](https://github.com/lokeshvijay7/FlixView) |
 | **📅 Schedulo** | Smart timetable generator and manager | `MERN Stack` `MongoDB` | [GitHub](https://github.com/lokeshvijay7/Schedulo) |
